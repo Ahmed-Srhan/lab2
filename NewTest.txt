@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 java
+=======
+java
+andriod
+>>>>>>> firstbranch
